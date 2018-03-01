@@ -113,7 +113,7 @@ function edad($fecha_nac){
                     <li><a href="mailto:yo@moisesaguilar.net" class="icon fa-envelope"><span class="label">Email</span></a></li>
                     <li><a href="https://github.com/monchito007" class="icon fa-github" target="_BLANK"><span class="label">Github</span></a></li>
                     <li><a href="https://www.linkedin.com/in/mois%C3%A9s-aguilar-b660853b/" class="icon fa-linkedin-square" target="_BLANK"><span class="label">LinkedIn</span></a></li>
-                    <li><a href="moisesaguilar.net/docs/CV_Moises_Aguilar.pdf" class="icon fa-file-pdf-o" target="_BLANK"><span class="label">Curriculum en PDF</span></a></li>
+                    <li><a href="/docs/CV_Moises_Aguilar.pdf" class="icon fa-file-pdf-o" target="_BLANK"><span class="label">Curriculum en PDF</span></a></li>
                 </ul>
 
             </div>
@@ -523,7 +523,9 @@ function edad($fecha_nac){
                             <h2>Contacto</h2>
                     </header>
 
-
+                    <p>Si deseas contactar conmigo aquí te dejo mi correo electrónico: <a href='mailto:yo@moisesaguilar.net'>yo@moisesaguilar.net</a></p>
+                    
+                    <!--
                     <div id="ok" class="row"></div>
                     <form method="post" id="form_contacto">
                         <p>Para contactar conmigo rellena el siguiente formulario o envia un correo electrónico a <a href='mailto:yo@moisesaguilar.net'>yo@moisesaguilar.net</a> y te contestaré lo antes posible.</p>
@@ -542,7 +544,8 @@ function edad($fecha_nac){
                             </div>
                         </div>
                     </form>
-
+                    -->
+                    
                 </div>
             </section>
 
