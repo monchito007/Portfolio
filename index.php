@@ -112,8 +112,8 @@ function edad($fecha_nac){
                 <ul class="icons">
                     <li><a href="mailto:yo@moisesaguilar.net" class="icon fa-envelope"><span class="label">Email</span></a></li>
                     <li><a href="https://github.com/monchito007" class="icon fa-github" target="_BLANK"><span class="label">Github</span></a></li>
-                    <li><a href="https://www.linkedin.com/profile/view?id=140517438" class="icon fa-linkedin-square" target="_BLANK"><span class="label">LinkedIn</span></a></li>
-                    <li><a href="https://www.linkedin.com/profile/view?id=140517438" class="icon fa-file-pdf-o" target="_BLANK"><span class="label">Curriculum en PDF</span></a></li>
+                    <li><a href="https://www.linkedin.com/in/mois%C3%A9s-aguilar-b660853b/" class="icon fa-linkedin-square" target="_BLANK"><span class="label">LinkedIn</span></a></li>
+                    <li><a href="moisesaguilar.net/docs/CV_Moises_Aguilar.pdf" class="icon fa-file-pdf-o" target="_BLANK"><span class="label">Curriculum en PDF</span></a></li>
                 </ul>
 
             </div>
@@ -444,7 +444,7 @@ function edad($fecha_nac){
                     
                     <div class="bloque">
                         
-                        
+                        <h3>Desarrollador de Aplicaciones Web</h3>
                         <h4>En Boira Digital S.L.</h4>
                         <h5><em>Desde Abril de 2014 hasta Julio de 2014</em></h5>
                     
