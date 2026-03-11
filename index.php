@@ -248,11 +248,17 @@ function edad($fecha_nac){
 
                     <h3>Cursos</h3>
                     <p>
-                        Título de Ofimática de la A.E.C.E.I. (Office 97)
+                        Microsoft 365 Certified: Fundamentals MS-900
                         <br>
-                        3 Cursos Programación VISUAL BASIC 6.0
+                        Curso IFCD94 Herramientas del Big Data y Gobierno del Dato (Mainjobs)
+                        <br>      
+                        Curso IFCT103 Ciberseguridad: Prevención, Análisis y Respuesta a Incidentes de Seguridad (Mainjobs)
                         <br>
                         Curso de Prevención de Riesgos Laborales. (33 horas)
+                        <br>
+                        3 Cursos Programación VISUAL BASIC 6.0
+                        <br>                        
+                        Título de Ofimática de la A.E.C.E.I. (Office 97)
                     </p>
 
                     <h3>Idiomas</h3>
@@ -484,9 +490,9 @@ function edad($fecha_nac){
                     
                     <div class="bloque">
                         
-                        <h3>Informático y Administrativo</h3>
+                        <h3>Técnico Informático y Administrativo</h3>
                         <h4>Habitat Gestions</h4>
-                        <h5><em>Desde Noviembre de 2015 hasta la actualidad</em></h5>
+                        <h5><em>Desde Noviembre de 2015 hasta Diciembre de 2023</em></h5>
                     
                         <p>Tareas Administrativas</p>
                         <ul>
@@ -511,6 +517,55 @@ function edad($fecha_nac){
                         
                     </div>
                     
+                    <div class="bloque">
+                        
+                        <h3>Técnico Informático</h3>
+                        <h4>Tesalia Redes S.A.</h4>
+                        <h5><em>Desde Febrero de 2024 hasta Octubre de 2024</em></h5>
+                    
+                        <p>Servicio técnico informático a Joyería Tous S.A.</p>
+                        <ul>
+                            
+                            <li>Resolución de incidencias informáticas de Nivel 1. Presencial y remoto.</li>
+                            <li>Administración de usuarios en Active Directory.</li>
+                            <li>Gestión de Servidores de Impresión.</li>
+                            <li>Servicio de soporte técnico.</li>
+                            <li>Sistemas operativos Windows y MAC OS.</li>
+                            <li>Configuración, mantenimiento y reparación de equipos, móviles, impresoras, escáner.</li>
+                            <li>Gestión de la red local.</li>
+                            <li>Administración de Office 365.</li>
+                            <li>Manejo de usuarios y permisos en SAP.</li>
+                            <li>Programación de Scripts en BASH.</li>
+                            <li>Tareas logísticas de envío de material a tiendas de España y Portugal.</li>
+
+                        </ul>
+                        
+                    </div>
+                    <div class="bloque">
+                        
+                        <h3>Técnico Informático</h3>
+                        <h4>(DXC) ES Field Delivery Spain, S.L. </h4>
+                        <h5><em>Desde Octubre de 2024 hasta la actualidad</em></h5>
+                    
+                        <p>Servicio técnico informático a Joyería Tous S.A.</p>
+                        <ul>
+                            
+                            <li>Resolución de incidencias informáticas de Nivel 2. Presencial y remoto.</li>
+                            <li>Administración de usuarios en Active Directory.</li>
+                            <li>Gestión de Servidores de Impresión.</li>
+                            <li>Servicio de soporte técnico.</li>
+                            <li>Sistemas operativos Windows y MAC OS.</li>
+                            <li>Configuración, mantenimiento y reparación de equipos, móviles, impresoras, escáner.</li>
+                            <li>Gestión de la red local.</li>
+                            <li>Administración de Office 365.</li>
+                            <li>Manejo de usuarios y permisos en SAP.</li>
+                            <li>Programación de Scripts en BASH.</li>
+                            <li>Tareas logísticas de envío de material a tiendas de España y Portugal.</li>
+                                                        
+                        </ul>
+                        
+                    </div>
+
 
                 </div>
             </section>
@@ -523,7 +578,7 @@ function edad($fecha_nac){
                             <h2>Contacto</h2>
                     </header>
 
-                    <p>Si deseas contactar conmigo aquí te dejo mi correo electrónico: <a href='mailto:yo@moisesaguilar.net'>yo@moisesaguilar.net</a></p>
+                    <p>Si deseas contactar conmigo aquí te dejo mi correo electrónico: <a href='mailto:monchito007@gmail.com'>monchito007@gmail.com</a></p>
                     
                     <!--
                     <div id="ok" class="row"></div>
